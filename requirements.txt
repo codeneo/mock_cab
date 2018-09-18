@@ -1,0 +1,7 @@
+certifi==2018.8.24
+Django==2.1.1
+django-filter==2.0.0
+djangorestframework==3.8.2
+Markdown==2.6.11
+pytz==2018.5
+wincertstore==0.2
